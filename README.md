@@ -5,7 +5,7 @@
 
 A serverless online resume on Microsoft Azure, provisioned with Terraform and deployed through GitHub Actions. A visitor counter is stored in Cosmos DB and served by an Azure Function written in Python.
 
-**Live site:** <YOUR-SITE-URL>
+**Live site:** https://icy-tree-0e87ff810.3.azurestaticapps.net
 
 ## Architecture
 
