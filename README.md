@@ -1,7 +1,7 @@
 # Azure Cloud Resume Challenge
 
-[![Deploy Frontend](https://github.com/GAndrea6/CV-Cloud-Project/actions/workflows/frontend.yml/badge.svg)](https://github.com/GAndrea6/CV-Cloud-Project/actions/workflows/frontend.yml)
-[![Deploy Backend](https://github.com/GAndrea6/CV-Cloud-Project/actions/workflows/backend.yml/badge.svg)](https://github.com/GAndrea6/CV-Cloud-Project/actions/workflows/backend.yml)
+[![Deploy Frontend](https://github.com/GAndrea6/cloud-resume-challenge/actions/workflows/frontend.yml/badge.svg)](https://github.com/GAndrea6/cloud-resume-challenge/actions/workflows/frontend.yml)
+[![Deploy Backend](https://github.com/GAndrea6/cloud-resume-challenge/actions/workflows/backend.yml/badge.svg)](https://github.com/GAndrea6/cloud-resume-challenge/actions/workflows/backend.yml)
 
 A serverless online resume on Microsoft Azure, provisioned with Terraform and deployed through GitHub Actions. A visitor counter is stored in Cosmos DB and served by an Azure Function written in Python.
 
